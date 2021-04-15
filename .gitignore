@@ -1,0 +1,16 @@
+/.idea/
+/.sbt/
+/logs/
+/target/
+/project/
+
+*.log
+*.DS_Store
+
+/docs/
+/com/
+/core/
+/gaia/
+/jobs/
+/pyspark/
+/mnt/
